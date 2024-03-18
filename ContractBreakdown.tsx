@@ -268,8 +268,7 @@ export const ContractBreakdown = () => {
 
   const data4: any = [
     {
-      tradeName: "Electrical package",
-      assignedSubcontractor: "Apt electrical ltd",
+      
       Awaiting: 25000,
       overdue: 35000,
       totalOutstanding: 60000,
